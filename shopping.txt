@@ -8,3 +8,4 @@ Bier
 Tortellini
 Corona Bier
 Müsli
+Milch
