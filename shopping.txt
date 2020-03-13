@@ -14,3 +14,4 @@ Milch
 Eier
 Wein
 Honig
+Toast
